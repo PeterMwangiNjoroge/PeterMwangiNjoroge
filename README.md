@@ -16,7 +16,7 @@ I am passionate about anything tech and I spend most of my time writing automati
 </p>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwass&langs_count=8&theme=jolly&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterMwangiNjoroge&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
 <br/>
